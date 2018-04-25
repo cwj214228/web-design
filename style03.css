@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;}
+@font-face{font-family:ONYX;src:url(font/ONYX.TTF);}
+@font-face{font-family:TCM;src:url(font/TCCM____.TTF);}
+@font-face{font-family:ROCK;src:url(font/ROCK.TTF);}
+@font-face{font-family:BOOM;src:url(font/BOOMBOX.TTF);}
+@font-face{font-family:LTCH;src:url(font/LTCH.TTF);}
+@font-face{font-family:jianzhi;src:url(font/FZJZJW.TTF);}
+.one .a{font-family:ONYX;font-size:48px;color:#333;}
+.one .b{font-family:TCM;font-size:58px;color:#4c9372;}
+.two .a{font-family:ROCK;font-size:24px;font-weight:bold;font-style:oblique;color:#333;}
+.two .b{font-family:ROCK;font-size:36px;font-weight:bold;color:#333;}
+
+.h2 .a{font-family:BOOM; font-size:60px;}
+.h2 .b{font-family:LTCH; font-size:50px; color:#e1005a;}
+
+.three{font-family:"微软雅黑";font-size:36px;}
+.three strong{color:#e1005a;}
+.four{width:500px;font-family:"微软雅黑";font-size:14px;color:#747474;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+
+
+
+

@@ -1,0 +1,71 @@
+*｛
+margin:0;border:0; list-style: 0; padding: 0;
+｝
+
+span{
+	text-decoration: none;
+	font-size: 30px;
+	color: #fff;
+}
+
+.zero{
+	width: 320px;
+	height: 320px;
+	margin: 50px auto;
+	position: relative;
+	box-shadow: 10px;
+	background: #FFFFCC;
+}
+
+.one{
+	font-size: 18px;
+	font-family: "微软雅黑";
+	margin: 2px auto;
+	padding: 10px;
+	color: #666666;
+}
+
+.five{
+	float: left;
+}
+.six{
+	margin: -15px auto;
+	padding: 10px;
+}
+.two{
+	font-size: 15px;
+	margin: 10px;
+}
+.three{
+	font-size: 15px;
+	color: #000000;
+}
+.four{
+	color: #000000;
+	font-size: 15px;
+	margin: 10px auto;
+}
+.seven{
+	color:#FF0033;
+	font-size: 20px;
+	margin: 10px auto;
+}
+ul{
+	width: 110px;
+	height: 20px;
+	opacity: 0.7;
+	border-radius: 8px;
+	position: absolute;
+	right: 30px;
+	bottom: 80px;
+	text-align: center;
+}
+li{
+	width:15px;
+	height: 15px;
+	background: #FFFFFF;
+	display: inline-block;
+}
+.max{
+	background: #FFFF00;
+}
