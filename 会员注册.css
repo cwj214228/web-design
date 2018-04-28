@@ -1,0 +1,44 @@
+body{font: 12px; font-family: "微软雅黑";}
+body,h2,form,input,p{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+.bg{
+	width: 1200px;
+	height: 900px;
+	background: url(images/sy.png)no-repeat;
+	position: relative;
+}
+form{
+	width: 600px;
+	height: 400px;
+	position: absolute;
+	margin: 150px;
+	left: 15%;
+	top: 3%;
+}
+h2{
+	position: relative;
+	left: 25%;
+	margin: 15px 0;
+}
+p{
+	margin-top: 12px;
+}
+p span{
+	width: 85px;
+	text-align: right;
+	display: inline-block;
+	padding-right: 5px;
+}
+.btn input{
+	width: 100px;
+	height: 30px;
+	background: #93b518;
+	border-radius: 5px;
+	font-size: 18px;
+	font-family: "微软雅黑";
+	margin-left: 30px;
+}
+
